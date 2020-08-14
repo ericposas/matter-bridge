@@ -20,6 +20,7 @@
 	},
 	"dependencies": {
 		"matter-js": "^0.14.2",
+		"matterjs-ragdoll": "^1.0.7",
 		"pixi.js": "^5.3.3",
 		"radians": "^1.0.0",
 		"random": "^2.2.0"
